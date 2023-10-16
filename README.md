@@ -2,6 +2,7 @@
 
 This is a 3D visualizer for pathfinding algorithms, made with Unity and written in C#. It allows you to compare how different algorithms find paths between two points in a dynamic environment that is mapped over using a grid system.
 
+<kbd><img src="https://raw.githubusercontent.com/Oprescu/Unity-Pathfinding-Visualizer/main/Images/1.png" width="600"></kbd>
 ## Features
 
 - Three algorithms implemented: Depth-First Search (DFS), Breadth-First Search (BFS), and A* Search (A*).
