@@ -1,9 +1,18 @@
 # Unity Pathfinding Visualizer
 
 This is a 3D visualizer for pathfinding algorithms, made with Unity and written in C#. It allows you to compare how different algorithms find paths between two points in a dynamic environment that is mapped over using a grid system.
+ <table>
+    <tr>
+      <td>
+        <kbd><img src="https://raw.githubusercontent.com/Oprescu/Unity-Pathfinding-Visualizer/main/Images/Animation.gif" width="500"></kbd>
+      </td>
+      <td>
+        <kbd><img src="https://raw.githubusercontent.com/Oprescu/Unity-Pathfinding-Visualizer/main/Images/1.png" ></kbd>
+      </td>
+    </tr>
+  </table>
 
-<kbd><img src="https://raw.githubusercontent.com/Oprescu/Unity-Pathfinding-Visualizer/main/Images/Animation.gif" width="750"></kbd>
-<kbd><img src="https://raw.githubusercontent.com/Oprescu/Unity-Pathfinding-Visualizer/main/Images/1.png" width="750"></kbd>
+
 
 
 ## Features
