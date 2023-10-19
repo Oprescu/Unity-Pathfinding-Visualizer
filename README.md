@@ -4,10 +4,10 @@ This is a 3D visualizer for pathfinding algorithms, made with Unity and written 
  <table>
     <tr>
       <td>
-        <kbd><img src="https://raw.githubusercontent.com/Oprescu/Unity-Pathfinding-Visualizer/main/Images/Animation.gif" width="500"></kbd>
+        <img src="https://raw.githubusercontent.com/Oprescu/Unity-Pathfinding-Visualizer/main/Images/Animation.gif" width="500">
       </td>
       <td>
-        <kbd><img src="https://raw.githubusercontent.com/Oprescu/Unity-Pathfinding-Visualizer/main/Images/1.png" ></kbd>
+        <img src="https://raw.githubusercontent.com/Oprescu/Unity-Pathfinding-Visualizer/main/Images/1.png" >
       </td>
     </tr>
   </table>
